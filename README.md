@@ -183,8 +183,8 @@ Go back into your Azure portal and **delete all your resources** when your done.
 
 This lab demonstrated how VPNs can enhance online privacy, mask your location, and provide access to region-specific content. By setting up a virtual machine in Azure and testing a VPN, we explored the practical impacts of geolocation changes and gained hands-on experience with cloud resources and VPN configuration. These skills are essential for understanding network security, privacy, and global connectivity in today’s digital world.
 
-If you haven’t done so yet, check out my other labs to further enhance your knowledge and skills. Explore topics like [Group Policy and Account Management](https://github.com/vincentchachere/Group-Policy-and-Managing-Accounts), [File Shares and Permissions](https://github.com/vincentchachere/Network-File-Shares-and-Permissions), and [DNS Resolution](https://github.com/vincentchachere/DNS-Fundamentals).
+If you haven’t done so yet, check out my other labs to further enhance your knowledge and skills. Explore topics like [Group Policy and Account Management](https://github.com/DavidClarkeIT/Group-Policy-and-Managing-Accounts), [File Shares and Permissions](https://github.com/DavidClarkeIT/Network-File-Shares-and-Permissions), and [DNS Resolution](https://github.com/DavidClarkeIT/DNS-Fundamentals).
 
 Thank you for following along with this project. Your time and effort in learning and implementing these concepts are greatly appreciated. 
 
-☎️ For questions or to connect you can reach me at: www.linkedin.com/in/vincentchachere
+☎️ For questions or to connect you can reach me at: www.linkedin.com/in/davidclarkeit/
